@@ -16,8 +16,8 @@
 	//' Replace <API_SIGNATURE> with your Signature
 	//'------------------------------------
 	$API_UserName="Seller_1308542242_biz_api1.gmail.com";
-	$API_Password="1308542256";
-	$API_Signature="A4U73r.r18rhxStXoULiMg6K9OGOAuMapjAYMHD5UPtAMTjgTgK5VKnK";
+	$API_Password="xxxxxxxx";
+	$API_Signature="yyyyyyyy";
 
 	// BN Code 	is only applicable for partners
 	$sBNCode = "PP-ECWizard";
